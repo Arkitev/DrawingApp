@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_rubber"
+        android:title="Rubber"
+        android:checkable="true"
+        app:showAsAction="always"
+        android:icon="@drawable/rubber"
+        />
+    <item
+        android:id="@+id/action_bold"
+        android:title="Bold"
+        android:checkable="true"
+        app:showAsAction="always"
+        android:icon="@drawable/bold"
+        />
+    <item
+        android:id="@+id/action_palette"
+        android:title="Colors"
+        android:checkable="true"
+        app:showAsAction="always"
+        android:icon="@drawable/colors_palette"
+        />
+</menu>
