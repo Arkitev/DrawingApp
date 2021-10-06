@@ -1,2 +1,2 @@
 # DrawingApp
-Simple drawing app for Android using canvas.
+Simple drawing app for Android using canvas. (College Project)
